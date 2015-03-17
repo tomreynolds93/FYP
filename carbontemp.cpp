@@ -1,5 +1,3 @@
-//Copyright (c) 2015 Thomas Reynolds
-
 #include <iostream>		//Header for C++ output stream 'cout'
 #include <conio.h>		//Header for console I/O _getch()
 #include <ctime>		//Header for time functions
